@@ -6,7 +6,7 @@ Unofficial Academy Logo & Icon
 Usage
 ---
 
-> This is the General Logo for Unofficial Salesforce Commerce Cloud Academy Project
+> This is the Custom Logo for Unofficial Salesforce Commerce Cloud Academy Project
 
 Instructions
 ---

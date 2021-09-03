@@ -6,7 +6,7 @@ Unofficial GitHub Logo & Icon
 Usage
 ---
 
-> This is the General Logo for Unofficial Salesforce Commerce Cloud GitHub Project
+> This is the Custom Logo for Unofficial Salesforce Commerce Cloud GitHub Project
 
 Instructions
 ---

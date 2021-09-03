@@ -6,7 +6,7 @@ Unofficial Community Logo & Icon
 Usage
 ---
 
-> This is the General Logo for Unofficial Salesforce Commerce Cloud Community Project
+> This is the Custom Logo for Unofficial Salesforce Commerce Cloud Community Project
 
 Instructions
 ---
