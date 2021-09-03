@@ -22,7 +22,7 @@ We are using an Open Source font named [Capture It](./template/font) for the tex
 Logos
 ---
 
-> If you need a smaller version of a projects logo, we made these custom icons just for you.
+> We've made a custom logo for each project.
 
 [![Unofficial Logo](./unofficial/logo/exports/medium/transparent/128x128.png)](./unofficial#logo)
 [![Unofficial Academy Logo](./unofficial-academy/logo/exports/medium/transparent/128x128.png)](./unofficial-academy#logo)
