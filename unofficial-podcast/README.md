@@ -27,34 +27,34 @@ Dark
 
 #### Transparent Dark:
 
-[![Dark Transparent Logo](./logo/exports/dark/transparent/128x128.png)](./logo/exports/dark/transparent)
+[![Dark Transparent Logo](./logo/exports/dark/transparent/256x256.png)](./logo/exports/dark/transparent)
 
 #### Solid Dark:
 
-[![Dark Solid Logo](./logo/exports/dark/solid/128x128.png)](./logo/exports/dark/solid)
+[![Dark Solid Logo](./logo/exports/dark/solid/256x256.png)](./logo/exports/dark/solid)
 
 Light
 ---
 
 #### Transparent Light:
 
-[![Unofficial Logo](./logo/exports/light/transparent/128x128.png)](./logo/exports/light/transparent)
+[![Unofficial Logo](./logo/exports/light/transparent/256x256.png)](./logo/exports/light/transparent)
 
 #### Solid Light:
 
-[![Unofficial Logo](./logo/exports/light/solid/128x128.png)](./logo/exports/light/solid)
+[![Unofficial Logo](./logo/exports/light/solid/256x256.png)](./logo/exports/light/solid)
 
 Medium
 ---
 
 #### Transparent Medium:
 
-[![Unofficial Logo](./logo/exports/medium/transparent/128x128.png)](./logo/exports/medium/transparent)
+[![Unofficial Logo](./logo/exports/medium/transparent/256x256.png)](./logo/exports/medium/transparent)
 
 #### Solid Medium:
 
-[![Unofficial Logo](./logo/exports/medium/solid/light-bg/128x128.png)](./logo/exports/medium/solid/light-bg)
-[![Unofficial Logo](./logo/exports/medium/solid/dark-bg/128x128.png)](./logo/exports/medium/solid/dark-bg)
+[![Unofficial Logo](./logo/exports/medium/solid/light-bg/256x256.png)](./logo/exports/medium/solid/light-bg)
+[![Unofficial Logo](./logo/exports/medium/solid/dark-bg/256x256.png)](./logo/exports/medium/solid/dark-bg)
 
 Icon
 ===
