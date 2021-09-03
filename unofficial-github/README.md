@@ -1,6 +1,6 @@
 **[↤ BACK](../README.md)**
 
-Unofficial Logo & Icon
+Unofficial GitHub Logo & Icon
 ===
 
 Usage
@@ -13,13 +13,13 @@ Instructions
 
 > We've created a large variety of ready made logos & icons, but before you choose which one is right for you, here are some things to consider:
 
-- [X] Our [Logos](#logos) look good at `48px` or higher
+- [X] Our [Logo](#logo) looks good at `48px` or higher
 - [X] If you need something smaller than `48px`, you should use our [Icon](#icon)
 - [X] If you're using a light color background, use our [Transparent Dark](#transparent-dark) logo
 - [X] If you're using a dark color background, use our [Transparent Light](#transparent-light) logo
 - [X] If you are not sure what background color the logo will end up on, use our [Transparent Medium](#transparent-medium) as they can work on dark or light backgrounds, or you can also choose to use `solid` logo that have a filled in background to avoid any possible color issues
 
-Logos
+Logo
 ===
 
 Dark
