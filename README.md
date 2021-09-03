@@ -24,19 +24,19 @@ Logos
 
 > If you need a smaller version of a projects logo, we made these custom icons just for you.
 
-[![Unofficial Logo](./unofficial/logo/exports/medium/transparent/128x128.png)](./unofficial)
-[![Unofficial Academy Logo](./unofficial-academy/logo/exports/medium/transparent/128x128.png)](./unofficial-academy)
-[![Unofficial Community Logo](./unofficial-community/logo/exports/medium/transparent/128x128.png)](./unofficial-community)
-[![Unofficial GitHub Logo](./unofficial-github/logo/exports/medium/transparent/128x128.png)](./unofficial-github)
-[![Unofficial Podcast Logo](./unofficial-podcast/logo/exports/medium/transparent/128x128.png)](./unofficial-podcast)
+[![Unofficial Logo](./unofficial/logo/exports/medium/transparent/128x128.png)](./unofficial#logo)
+[![Unofficial Academy Logo](./unofficial-academy/logo/exports/medium/transparent/128x128.png)](./unofficial-academy#logo)
+[![Unofficial Community Logo](./unofficial-community/logo/exports/medium/transparent/128x128.png)](./unofficial-community#logo)
+[![Unofficial GitHub Logo](./unofficial-github/logo/exports/medium/transparent/128x128.png)](./unofficial-github#logo)
+[![Unofficial Podcast Logo](./unofficial-podcast/logo/exports/medium/transparent/128x128.png)](./unofficial-podcast#logo)
 
 Icons
 ---
 
 > If you need a smaller version of a projects logo, we made these custom icons just for you.
 
-[![Unofficial Icon](./unofficial/icon/exports/48x48.png)](./unofficial)
-[![Unofficial Academy Icon](./unofficial-academy/icon/exports/48x48.png)](./unofficial-academy)
-[![Unofficial Community Icon](./unofficial-community/icon/exports/48x48.png)](./unofficial-community)
-[![Unofficial GitHub Icon](./unofficial-github/icon/exports/48x48.png)](./unofficial-github)
-[![Unofficial Podcast Icon](./unofficial-podcast/icon/exports/48x48.png)](./unofficial-podcast)
+[![Unofficial Icon](./unofficial/icon/exports/48x48.png)](./unofficial#icon)
+[![Unofficial Academy Icon](./unofficial-academy/icon/exports/48x48.png)](./unofficial-academy#icon)
+[![Unofficial Community Icon](./unofficial-community/icon/exports/48x48.png)](./unofficial-community#icon)
+[![Unofficial GitHub Icon](./unofficial-github/icon/exports/48x48.png)](./unofficial-github#icon)
+[![Unofficial Podcast Icon](./unofficial-podcast/icon/exports/48x48.png)](./unofficial-podcast#icon)

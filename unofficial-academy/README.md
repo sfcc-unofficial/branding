@@ -56,7 +56,7 @@ Medium
 [![Unofficial Logo](./logo/exports/medium/solid/light-bg/128x128.png)](./logo/exports/medium/solid/light-bg)
 [![Unofficial Logo](./logo/exports/medium/solid/dark-bg/128x128.png)](./logo/exports/medium/solid/dark-bg)
 
-Icons
+Icon
 ===
 
 > If you need a smaller version of this logo, we made these custom icons just for you.
